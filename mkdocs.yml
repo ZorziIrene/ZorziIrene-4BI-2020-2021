@@ -4,5 +4,5 @@ site_name: Zorzi_Irene
 nav:
     - 'Test': 'test.txt'
  
- theme:
+theme:
      name : readthedocs
